@@ -74,7 +74,7 @@
 
 Este es un proyecto para crear un tipo de portafolio como practica de react three fiber, se usan conceptos basicos para crear una escena, usar un avatar, crear varias paginas con un scrol animado, uso de animaciones para los modelos 3D
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">volver al principio</a>)</p>
 
 ### Built With
 
@@ -84,7 +84,7 @@ Este es un proyecto para crear un tipo de portafolio como practica de react thre
 * [![Javascript][Javascript]][Javascript-url]
 * [![Tailwind][Tailwind]][Tailwind-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">volver al principio</a>)</p>
 
 
 
